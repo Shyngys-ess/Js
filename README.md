@@ -43,18 +43,25 @@ parseInt("2.5em") возвращает 2, потому что parseInt оста�
 <img width="513" height="205" alt="image" src="https://github.com/user-attachments/assets/3b9ff9f5-ef5f-4f94-88a7-044f779bc52a" />
 <img width="1513" height="401" alt="image" src="https://github.com/user-attachments/assets/f65c3083-4973-4cc8-9623-1f5c5237c385" />
 <br>
-
+<br>
+<img width="592" height="198" alt="image" src="https://github.com/user-attachments/assets/f5012566-acdd-473d-8bf6-fc3dac24fef9" />
+<img width="1403" height="620" alt="image" src="https://github.com/user-attachments/assets/c2810d4d-7b1f-4f44-abe4-351e569c000d" />
+<img width="1405" height="575" alt="image" src="https://github.com/user-attachments/assets/4562fb82-6627-4731-9f41-6f8e1fdddeab" />
+<br>
+<br>
+<img width="552" height="203" alt="image" src="https://github.com/user-attachments/assets/76a8368d-0ba0-43e7-8371-64911cc97478" />
+<img width="1309" height="440" alt="image" src="https://github.com/user-attachments/assets/cfeefe68-4169-4207-9010-246558008cbf" />
+<br>
+<br>
+<img width="656" height="126" alt="image" src="https://github.com/user-attachments/assets/85854f5b-f75e-4cae-bebc-9e7698187f6d" />
+<img width="1291" height="550" alt="image" src="https://github.com/user-attachments/assets/fccdf117-e711-4d11-8f73-e7dc27170293" />
+<br>
+<br>
+<img width="676" height="82" alt="image" src="https://github.com/user-attachments/assets/d39aa454-fba7-444b-a0fb-e764fa654adc" />
+<img width="1335" height="392" alt="image" src="https://github.com/user-attachments/assets/82c0e1c9-b3f1-4a45-a7d4-9ee0ccc83b00" />
+<br>
 <br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
