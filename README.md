@@ -71,8 +71,43 @@ parseInt("2.5em") возвращает 2, потому что parseInt оста�
 <br>
 <br>
 <img width="796" height="117" alt="image" src="https://github.com/user-attachments/assets/f4692344-0401-41f7-98ee-92c863b0c25c" />
-
+<img width="1433" height="821" alt="image" src="https://github.com/user-attachments/assets/4665eef6-42d9-40e4-baf5-d9505ab114ed" />
 <br>
 <br>
+<img width="784" height="82" alt="image" src="https://github.com/user-attachments/assets/080be94c-58da-4216-ab94-e39af5b1dc85" />
+<img width="1426" height="885" alt="image" src="https://github.com/user-attachments/assets/2c8cc09a-06d0-4d58-95c1-837c742a2d46" />
 <br>
 <br>
+<img width="777" height="61" alt="image" src="https://github.com/user-attachments/assets/aff14622-a4bb-401f-b757-870d5f17901e" />
+<img width="1403" height="802" alt="image" src="https://github.com/user-attachments/assets/eee9ae2e-5149-46c2-9c87-90b9e5d9ca53" />
+<br>
+<br>
+<img width="766" height="112" alt="image" src="https://github.com/user-attachments/assets/19129abd-21bf-48e8-94ae-7f71cc24e038" />
+<img width="1278" height="821" alt="image" src="https://github.com/user-attachments/assets/02ec26fa-5070-456b-931a-31ed17943338" />
+<br>
+<br>
+<img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/6d08a341-8c56-4b10-adff-bfd836a5d2d6" />
+<img width="1297" height="790" alt="image" src="https://github.com/user-attachments/assets/c5311852-c680-4f30-8356-d9eeed272d71" />
+<br>
+<br>
+<img width="779" height="103" alt="image" src="https://github.com/user-attachments/assets/70f08696-b621-4ea4-8562-eb3ae96409ee" />
+<img width="1250" height="734" alt="image" src="https://github.com/user-attachments/assets/d60b93e8-387e-4a96-b4cc-73753b2f2ea6" />
+<br>
+<br>
+<img width="810" height="130" alt="image" src="https://github.com/user-attachments/assets/6dd6ca28-03bd-49ae-bd33-e30db1e058d4" />
+<img width="811" height="392" alt="image" src="https://github.com/user-attachments/assets/70313699-efb1-4555-9fe1-65f2c3c6536a" />
+<br>
+<br>
+<img width="788" height="161" alt="image" src="https://github.com/user-attachments/assets/6e283b11-02ea-498a-a247-fc5061de9acf" />
+<img width="839" height="325" alt="image" src="https://github.com/user-attachments/assets/e0bc5f27-79d0-44c6-a36a-a2e6f4e92761" />
+<br>
+<br>
+<img width="736" height="84" alt="image" src="https://github.com/user-attachments/assets/4ea9c83f-ad6a-45bf-9192-daa3cf8b2c60" />
+<img width="807" height="330" alt="image" src="https://github.com/user-attachments/assets/7894d225-0393-4752-9814-abe692ac946c" />
+<br>
+<br>
+<img width="742" height="88" alt="image" src="https://github.com/user-attachments/assets/dd99ee8e-b397-4890-bf39-23be065547c2" />
+<img width="423" height="531" alt="image" src="https://github.com/user-attachments/assets/3b3c3abd-5e08-4c3e-b700-3cc78ba67096" />
+<br>
+<br>
+<img width="758" height="83" alt="image" src="https://github.com/user-attachments/assets/825a97c1-9432-4d55-b720-8b9dd8cfb438" />
